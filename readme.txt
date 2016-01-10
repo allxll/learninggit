@@ -1,8 +1,2 @@
-#include<stdio.h>
-def imef
-
-Git is a distributed version control system
-    happy Git is free software distributed under the GPL
-
-
-
+ Hello, Becky， I am the Genie~  You're so lucky to meet me. 
+    So, you can have a wish! Just comment to give it to me~ Have fun!
